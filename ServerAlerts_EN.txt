@@ -1,16 +1,18 @@
-History of World of Warcraft
----
----
+SERVERALERT:
 
-Classic Era (Vanilla)
-- Azeroth recovers from the Orc Wars
-- The Horde and Alliance in a fragile peace
-- Threats: Ragnaros, Onyxia, Nefarian
-
-The Burning Crusade
-- The Dark Portal reopens
-- Burning Legion invades
-- Blood Elves and Draenei unite
-
-Wrath of the Lich King
-- Arthas awakens as the Lich King
+             |cFFFFD700History of|r |cFFFF7C00World|r |cFF00FF00of|r |cFF00D1FFWarcraft|r
+----------------------------------------------------------
+|TInterface\ICONS\achievement_boss_ragnaros:25:25:0:-5|t |cFF00B4FFClassic Era (Vanilla)|r
+|TInterface\ICONS\achievement_arena_2v2_1:18:18:0:-8|t |cFFAAD372- Azeroth recovers from the Orc Wars|r
+|TInterface\ICONS\achievement_bg_winwsg:18:18:0:-8|t |cFFAAD372- The Horde and Alliance in a fragile peace|r
+|TInterface\ICONS\achievement_boss_onyxia:18:18:0:-8|t |cFFAAD372- Threats: Ragnaros, Onyxia, Nefarian|r
+----------------------------------------------------------
+|TInterface\ICONS\achievement_boss_illidan:25:25:0:-5|t |cFFFF7C00The Burning Crusade|r
+|TInterface\ICONS\spell_arcane_teleportorgrimmar:18:18:0:-8|t |cFFFFB347- The Dark Portal reopens|r
+|TInterface\ICONS\achievement_boss_kiljaedan:18:18:0:-8|t |cFFFFB347- Burning Legion invades|r
+|TInterface\ICONS\achievement_bg_masterofallbgs:18:18:0:-8|t |cFFFFB347- Blood Elves and Draenei unite|r
+----------------------------------------------------------
+|TInterface\ICONS\achievement_boss_lichking:25:25:0:-5|t |cFF00D1FFWrath of the Lich King|r
+|TInterface\ICONS\achievement_zone_icecrown_01:18:18:0:-8|t |cFFA6D8FF- Arthas awakens as the Lich King|r
+|TInterface\ICONS\spell_deathknight_iceboundfortitude:18:18:0:-8|t |cFFA6D8FF- Death Knights invade|r
+|TInterface\ICONS\inv_helmet_133:18:18:0:-8|t |cFFA6D8FF- Battle for the Frozen Throne|r
